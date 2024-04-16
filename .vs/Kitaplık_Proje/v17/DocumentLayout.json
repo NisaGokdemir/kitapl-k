@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erayc\\OneDrive\\Masa\u00FCst\u00FC\\cvlikproje\\Kitapl\u0131k_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C722AB3-DD09-4EF3-8674-D845E34A3C7D}|Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje.csproj|c:\\users\\erayc\\onedrive\\masa\u00FCst\u00FC\\cvlikproje\\kitapl\u0131k_proje\\kitapl\u0131k_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C722AB3-DD09-4EF3-8674-D845E34A3C7D}|Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje.csproj|solutionrelative:kitapl\u0131k_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C722AB3-DD09-4EF3-8674-D845E34A3C7D}|Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje.csproj|c:\\users\\erayc\\onedrive\\masa\u00FCst\u00FC\\cvlikproje\\kitapl\u0131k_proje\\kitapl\u0131k_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C722AB3-DD09-4EF3-8674-D845E34A3C7D}|Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje.csproj|solutionrelative:kitapl\u0131k_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Erayc\\OneDrive\\Masa\u00FCst\u00FC\\cvlikproje\\Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Erayc\\OneDrive\\Masa\u00FCst\u00FC\\cvlikproje\\Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje\\Form1.cs [Design]",
+              "RelativeToolTip": "Kitapl\u0131k_Proje\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:13:08.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Erayc\\OneDrive\\Masa\u00FCst\u00FC\\cvlikproje\\Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Kitapl\u0131k_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\Erayc\\OneDrive\\Masa\u00FCst\u00FC\\cvlikproje\\Kitapl\u0131k_Proje\\Kitapl\u0131k_Proje\\Form1.cs",
+              "RelativeToolTip": "Kitapl\u0131k_Proje\\Form1.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAcwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:53:28.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
