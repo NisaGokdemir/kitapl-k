@@ -40,10 +40,3 @@ Contributions are welcome! Feel free to enhance the design, add new features, or
 
 This project is licensed under the MIT License.
 
-## Author ✨
-
-- **Eraycan Sivri**
-- **Contact**: nisagokdemir@gmail.com
-- **GitHub**: [GitHub Profile](https://github.com/NisaGokdemir)
-
-Manage and keep track of your books! 📚
